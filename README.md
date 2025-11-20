@@ -68,7 +68,7 @@ Simple portfolio project that shows how to:
    
    ## 📊 Airflow DAG — Graph View
    
-   ![Airflow DAG](dag_graph.png)
+   ![Airflow DAG](images/dag_graph.png)
    
    ---
    
